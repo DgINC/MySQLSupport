@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MySQLSupport.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Repos\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\SharedPCH.Core.h.obj"
+"D:\Cloud\Projects\Software\WOC\Game\Client\woc_main\Plugins\MySQLSupport\Intermediate\Build\Win64\UE4Editor\Development\MySQLSupport\MySQLSupport.cpp.obj"
+"D:\Repos\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\Cloud\Projects\Software\WOC\Game\Client\woc_main\Plugins\MySQLSupport\Intermediate\Build\Win64\UE4Editor\Development\MySQLSupport\UE4Editor-MySQLSupport.lib"
+/INCLUDE:IMPLEMENT_MODULE_MySQLSupport
